@@ -149,6 +149,7 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 | [1030](../codes/climate/1030.json) | CS-E12JKDW <b>(Swing mode)</b>	    							  | Broadlink  |
 | [1031](../codes/climate/1031.json) | SRK25ZMP-S<br>SRK35ZMP-S<br>SRK45ZMP-S	    					  | Broadlink  |
 | [1032](../codes/climate/1032.json) | CS-CU-HU18YKYF	    					                                      | Broadlink  |
+| [1034](../codes/climate/1034.json) | CS-MKS7NKU<br>CS-MKS9NKU<br>CS-MKS12NKU <b>(Swing mode)</b>        | Broadlink  |
 
 #### General Electric
 | Code                               | Supported Models                                                                               | Controller |
